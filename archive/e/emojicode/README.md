@@ -2,16 +2,29 @@
 
 Welcome to Sample Programs in Emojicode!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in Emojicode](https://github.com/jrg94/sample-programs/issues/134)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :white_check_mark: [Hello World in Emojicode](https://sample-programs.therenegadecoder.com/projects/hello-world/emojicode) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
 
-- Debut: 2015
-- License: Artistic 2.0
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [Emojicode Official Website](https://www.emojicode.org/)
-- [Emojicode GitHub](https://github.com/emojicode/emojicode)
+```yml
+folder:
+  extension:
+  naming:
+
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

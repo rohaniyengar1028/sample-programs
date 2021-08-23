@@ -2,41 +2,31 @@
 
 Welcome to Sample Programs in Ruby!
 
-## Sample Programs
+## Sample Programs List
 
-- [Baklava in Ruby][10]
-    - Solution borrowed from @erayak via the [baklava repo][1]
-- [Bubble Sort in Ruby][13]
-- [Fibonacci in Ruby][12]
-- [File IO in Ruby][5]
-- [Fizz Buzz in Ruby][3]
-- [Hello World in Ruby][2]
-- [Quine in Ruby][4]
-- [Reverse String in Ruby][11]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Bubble Sort in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+bubble+sort+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort)]
+- :warning: [Capitalize in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :warning: [Even Odd in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd)]
+- :warning: [Fibonacci in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fibonacci+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :white_check_mark: [File Io in Ruby](https://sample-programs.therenegadecoder.com/projects/file-io/ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/file-io)]
+- :warning: [Fizz Buzz in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Hello World in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Quine in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quine+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quine)]
+- :white_check_mark: [Reverse String in Ruby](https://sample-programs.therenegadecoder.com/projects/reverse-string/ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
+- :warning: [Roman Numeral in Ruby](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+roman+numeral+ruby) [[Requirements](https://sample-programs.therenegadecoder.com/projects/roman-numeral)]
 
-- Debut: 1995
-- Developer: Yukihiro Matsumoto
-- Typing: Dynamic
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Ruby.
 
-- [Ruby Wiki][6]
-- [Ruby Docs][7]
-- [Ruby GitHub][8]
-- [Ruby REPL][9]
+- Docker Image: ruby
+- Docker Tag: 2-alpine
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://therenegadecoder.com/code/hello-world-in-ruby/
-[3]: https://github.com/TheRenegadeCoder/sample-programs/issues/336
-[4]: https://github.com/TheRenegadeCoder/sample-programs/issues/338
-[5]: https://therenegadecoder.com/code/file-io-in-ruby/
-[6]: https://en.wikipedia.org/wiki/Ruby_(programming_language)
-[7]: https://www.ruby-lang.org/en/
-[8]: https://github.com/ruby/ruby
-[9]: https://repl.it/languages/ruby
-[10]: https://github.com/TheRenegadeCoder/sample-programs/issues/433
-[11]: https://therenegadecoder.com/code/reverse-a-string-in-ruby/
-[12]: https://github.com/TheRenegadeCoder/sample-programs/issues/542
-[13]: https://github.com/TheRenegadeCoder/sample-programs/issues/1023
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

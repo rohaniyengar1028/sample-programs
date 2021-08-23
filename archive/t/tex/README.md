@@ -1,20 +1,31 @@
-# Sample Programs in TeX
+# Sample Programs in Tex
 
-Welcome to Sample Programs in TeX!
+Welcome to Sample Programs in Tex!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in TeX](https://github.com/jrg94/sample-programs/issues/379)
-- [Fizz Buzz in TeX](https://github.com/TheRenegadeCoder/sample-programs/issues/393)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Fizz Buzz in Tex](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+tex) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :white_check_mark: [Hello World in Tex](https://sample-programs.therenegadecoder.com/projects/hello-world/tex) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
 
-- Debut: 1978
-- Developer: Donald Knuth
-- Mainly a typesetting (formatting) language, although it is Turing complete
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [TeX Wiki](https://en.wikipedia.org/wiki/TeX)
-- [TeX Offial Site (TeX Users Group)](https://tug.org)
-- [Online TeX editor](https://www.tutorialspoint.com/online_latex_editor.php)
+```yml
+folder:
+  extension:
+  naming:
+
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

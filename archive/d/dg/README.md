@@ -1,33 +1,34 @@
-# Sample Programs in dg (dogelang)
+# Sample Programs in Dg
 
-Welcome to Sample Programs in dg!
+Welcome to Sample Programs in Dg!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in dg][0]
-- [Fizz Buzz in dg][1]
-- [Reverse a String in dg][2]
-- [Quine in dg][3]
-  - Solution adapted from [Wikipedia's page on Quines (Python)][8]
-- [File IO in dg][4]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [File Io in Dg](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+file+io+dg) [[Requirements](https://sample-programs.therenegadecoder.com/projects/file-io)]
+- :warning: [Fizz Buzz in Dg](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+dg) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Hello World in Dg](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+dg) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Quine in Dg](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quine+dg) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quine)]
+- :warning: [Reverse String in Dg](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+dg) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 2015
-- Developer: pyos
-- Typing: Dynamic
-- License: MIT Liscense
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [dg Github Repository][6]
-- [dg Tutorial][7]
+```yml
+folder:
+  extension:
+  naming:
 
-[0]: https://github.com/TheRenegadeCoder/sample-programs/issues/468
-[1]: https://github.com/TheRenegadeCoder/sample-programs/issues/472
-[2]: https://github.com/TheRenegadeCoder/sample-programs/issues/473
-[3]: https://github.com/TheRenegadeCoder/sample-programs/issues/475
-[4]: https://github.com/TheRenegadeCoder/sample-programs/issues/477
-[6]: https://github.com/pyos/dg
-[7]: https://pyos.github.io/dg/tutorial/
-[8]: https://en.wikipedia.org/wiki/Quine_(computing)#Examples
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

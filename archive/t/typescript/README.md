@@ -1,36 +1,38 @@
-# Sample Programs in TypeScript
+# Sample Programs in Typescript
 
-Welcome to Sample Programs in TypeScript!
+Welcome to Sample Programs in Typescript!
 
-## Sample Programs
-- [Baklava in TypeScript][6]
-  - Solution borrowed from @toturkmen via the [baklava repo][1]
-- [Fibonacci in Typescript][8]
-- [FizzBuzz in TypeScript][7]
-- [Game of Life in TypeScript][3]
-- [Hello World in TypeScript][2]
-- Reversing a String in TypeScript  
-- Capitalize in TypeScript  
-- [Import in TypeScript][9]
-- [Export in TypeScript][9]
+## Sample Programs List
 
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Capitalize in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :white_check_mark: [Export in Typescript](https://sample-programs.therenegadecoder.com/projects/import-export/typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/import-export)]
+- :warning: [Fibonacci in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fibonacci+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :warning: [Fizz Buzz in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Game Of Life in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+game+of+life+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/game-of-life)]
+- :white_check_mark: [Hello World in Typescript](https://sample-programs.therenegadecoder.com/projects/hello-world/typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :white_check_mark: [Import in Typescript](https://sample-programs.therenegadecoder.com/projects/import-export/typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/import-export)]
+- :warning: [Reverse String in Typescript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+typescript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 2012
-- Developer: Microsoft
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [TypeScript Wiki][4]
-- [TypeScript GitHub][5]
+```yml
+folder:
+  extension:
+  naming:
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://github.com/jrg94/sample-programs/issues/245
-[3]: https://github.com/jrg94/sample-programs/issues/309
-[4]: https://en.wikipedia.org/wiki/TypeScript
-[5]: https://github.com/Microsoft/TypeScript
-[6]: https://github.com/TheRenegadeCoder/sample-programs/issues/434
-[7]: https://github.com/TheRenegadeCoder/sample-programs/issues/523
-[8]: https://github.com/TheRenegadeCoder/sample-programs/issues/531
-[9]: https://github.com/TheRenegadeCoder/sample-programs/issues/1178
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

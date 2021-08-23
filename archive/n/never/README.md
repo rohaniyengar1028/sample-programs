@@ -2,20 +2,30 @@
 
 Welcome to Sample Programs in Never!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in Never](https://github.com/TheRenegadeCoder/sample-programs/issues/450)
-- [Reverse an Array in Never](https://github.com/TheRenegadeCoder/sample-programs/issues/451)
-  - Note: Never currently does not support strings
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Hello World in Never](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+never) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Reverse String in Never](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+never) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 2018
-- Typing: Static
-- License: MIT
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [Never Official Website](https://never-lang.github.io/never/)
-- [Never GitHub](https://github.com/never-lang/never/)
+```yml
+folder:
+  extension:
+  naming:
 
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

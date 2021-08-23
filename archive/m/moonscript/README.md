@@ -1,25 +1,22 @@
-# Sample Programs in MoonScript
+# Sample Programs in Moonscript
 
-Welcome to Sample Programs in MoonScript!
+Welcome to Sample Programs in Moonscript! To find documentation related to the Moonscript code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/moonscript)
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in MoonScript][1]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :white_check_mark: [Hello World in Moonscript](https://sample-programs.therenegadecoder.com/projects/hello-world/moonscript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
 
-- Typing: Dynamic
-- License: MIT
-- Version: 0.5.0
-- Compiles Into: Lua
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Moonscript.
 
-- [MoonScript Wiki][2]
-- [MoonScript Getting Started][3]
-- [MoonScript Online Compiler][4]
+- Docker Image: cromo/moonscript
+- Docker Tag: latest
 
-[1]: https://therenegadecoder.com/code/hello-world-in-moonscript/
-[2]: https://moonscript.org/
-[3]: http://leafo.net/posts/getting_started_with_moonscript.html
-[4]: http://moonscript.org/compiler/
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

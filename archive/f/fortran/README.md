@@ -2,22 +2,28 @@
 
 Welcome to Sample Programs in Fortran!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in Fortran][2]
-- [Baklava in Fortran][4]
-  - Solution borrowed from @toturkmen via the [baklava repo][1]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Capitalize in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :warning: [Even Odd in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd)]
+- :warning: [Factorial in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+factorial+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/factorial)]
+- :warning: [Fizz Buzz in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Hello World in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Prime Number in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+prime+number+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number)]
+- :warning: [Reverse String in Fortran](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+fortran) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 1957
-- Typing: Static
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Fortran.
 
-- [Fortran Wiki][3]
+- Docker Image: gcc
+- Docker Tag: 8.3
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://github.com/jrg94/sample-programs/issues/73
-[3]: https://en.wikipedia.org/wiki/Fortran
-[4]: https://github.com/TheRenegadeCoder/sample-programs/issues/427
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

@@ -2,20 +2,23 @@
 
 Welcome to Sample Programs in Nim!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in Nim](https://github.com/jrg94/sample-programs/issues/68)
-- [Fibonacci in Nim](https://github.com/TheRenegadeCoder/sample-programs/issues/1669)
-- [Reverse String in Nim](https://github.com/TheRenegadeCoder/sample-programs/issues/1739)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Fibonacci in Nim](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fibonacci+nim) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :warning: [Hello World in Nim](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+nim) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Reverse String in Nim](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+nim) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 2008
-- Typing: Static
-- License: MIT
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Nim.
 
-- [Nim Wiki](https://en.wikipedia.org/wiki/Nim_(programming_language))
-- [Nim Official Website](https://nim-lang.org/)
-- [Nim GitHub](https://github.com/nim-lang/Nim)
+- Docker Image: nimlang/nim
+- Docker Tag: 1.0.0-alpine
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

@@ -2,18 +2,31 @@
 
 Welcome to Sample Programs in Vimscript!
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in Vimscript](https://github.com/jrg94/sample-programs/issues/369)
-- [Reverse a String in Vimscript](https://github.com/TheRenegadeCoder/sample-programs/issues/373)
-- [Fizz Buzz in Vimscript](https://github.com/TheRenegadeCoder/sample-programs/issues/376)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Fizz Buzz in Vimscript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+vimscript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Hello World in Vimscript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+vimscript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Reverse String in Vimscript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+vimscript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 1998
-- Typing: Dynamic
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [Vimscript Official Website](https://www.vim.org/scripts/index.php)
-- [Vimscript Wikipedia](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)
+```yml
+folder:
+  extension:
+  naming:
+
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

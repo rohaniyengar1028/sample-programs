@@ -1,63 +1,48 @@
-# Sample Programs in JavaScript
+# Sample Programs in Javascript
 
-Welcome to Sample Programs in JavaScript!
+Welcome to Sample Programs in Javascript!
 
-## Sample Programs
+## Sample Programs List
 
--   [Baklava in JavaScript][8]
-    -   Solution borrowed from @toturkmen via the [baklava repo][1]
--   [Bubblesort in Javascript][18]
--   [Capitalize in JavaScript][12]
--   Even Odd in JavaScript
--   [Export in JavaScript][13]
--   [Factorial in JavaScript][15]
--   [Fibonacci in JavaScript][9]
--   File IO in JavaScript
--   [Fizz Buzz in JavaScript][4]
--   [Hello World in JavaScript][2]
--   [Insertion sort in JavaScript][16]
--   [Import in JavaScript][13]
--   [Prime Number in JavaScript][14]
--   [Reverse a String in JavaScript (No Emoji Support)][3]
--   [Roman Numeral Conversion in JavaScript][17]
--   [Convex Hull in Javascript][18]
--   [Selection Sort in JavaSciprt][19]
--   [Quick Sort in JavaScript][20]
--   [Rotate by 13 in JavaScript][21]
--   [Game of Life in JavaScript][22]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Binary Search in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+binary+search+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search)]
+- :warning: [Bubble Sort in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+bubble+sort+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort)]
+- :warning: [Capitalize in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :warning: [Convex Hull in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+convex+hull+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull)]
+- :warning: [Even Odd in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd)]
+- :white_check_mark: [Export in Javascript](https://sample-programs.therenegadecoder.com/projects/import-export/javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/import-export)]
+- :warning: [Factorial in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+factorial+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/factorial)]
+- :white_check_mark: [Fibonacci in Javascript](https://sample-programs.therenegadecoder.com/projects/fibonacci/javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :warning: [File Io in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+file+io+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/file-io)]
+- :white_check_mark: [Fizz Buzz in Javascript](https://sample-programs.therenegadecoder.com/projects/fizz-buzz/javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Game Of Life in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+game+of+life+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/game-of-life)]
+- :warning: [Hello World in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+hello+world+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :white_check_mark: [Import in Javascript](https://sample-programs.therenegadecoder.com/projects/import-export/javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/import-export)]
+- :warning: [Insertion Sort in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+insertion+sort+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/insertion-sort)]
+- :warning: [Job Sequencing in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+job+sequencing+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/job-sequencing)]
+- :warning: [Lcs in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+lcs+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/lcs)]
+- :warning: [Linear Search in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+linear+search+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/linear-search)]
+- :warning: [Lps in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+lps+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/lps)]
+- :warning: [Merge Sort in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+merge+sort+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/merge-sort)]
+- :warning: [Prime Number in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+prime+number+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number)]
+- :warning: [Quick Sort in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quick+sort+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quick-sort)]
+- :warning: [Quine in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quine+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quine)]
+- :white_check_mark: [Reverse String in Javascript](https://sample-programs.therenegadecoder.com/projects/reverse-string/javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
+- :warning: [Roman Numeral in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+roman+numeral+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/roman-numeral)]
+- :warning: [Rot 13 in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rot+13+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/rot-13)]
+- :warning: [Selection Sort in Javascript](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+selection+sort+javascript) [[Requirements](https://sample-programs.therenegadecoder.com/projects/selection-sort)]
 
--   Debut: 1995
--   Typing: Dynamic
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Javascript.
 
--   [JavaScript Wiki][5]
--   [JavaScript Docs][6]
--   [Online JavaScript Editor][7]
--   [Web Standards/Documentation][10]
--   [JavaScript beginner tutorial][11]
+- Docker Image: node
+- Docker Tag: 11-alpine
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://therenegadecoder.com/code/hello-world-in-javascript/
-[3]: https://github.com/jrg94/sample-programs/issues/93
-[4]: https://github.com/jrg94/sample-programs/issues/293
-[5]: https://en.wikipedia.org/wiki/JavaScript
-[6]: https://www.javascript.com/
-[7]: https://js.do/
-[8]: https://github.com/TheRenegadeCoder/sample-programs/issues/429
-[9]: https://github.com/TheRenegadeCoder/sample-programs/issues/488
-[10]: https://developer.mozilla.org/en-US/
-[11]: https://www.w3schools.com/js/
-[12]: https://github.com/TheRenegadeCoder/sample-programs/issues/1067
-[13]: https://github.com/TheRenegadeCoder/sample-programs/issues/1178
-[14]: https://github.com/TheRenegadeCoder/sample-programs/issues/1191
-[15]: https://github.com/TheRenegadeCoder/sample-programs/issues/1383
-[16]: https://github.com/TheRenegadeCoder/sample-programs/issues/1382
-[17]: https://github.com/TheRenegadeCoder/sample-programs/issues/1391
-[18]: https://github.com/TheRenegadeCoder/sample-programs/issues/1376
-[19]: https://github.com/TheRenegadeCoder/sample-programs/issues/1380
-[20]: https://github.com/TheRenegadeCoder/sample-programs/issues/1649
-[20]: https://github.com/TheRenegadeCoder/sample-programs/issues/1379
-[22]: https://github.com/TheRenegadeCoder/sample-programs/issues/1377
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

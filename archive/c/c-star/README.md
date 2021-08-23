@@ -1,17 +1,30 @@
-# Sample Programs in C*
+# Sample Programs in C\*
 
-Welcome to Sample Programs in C*
+Welcome to Sample Programs in C\*! To find documentation related to the C\* code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/c-star)
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in C*](https://therenegadecoder.com/code/hello-world-in-c-star/)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :white_check_mark: [Hello World in C\*](https://sample-programs.therenegadecoder.com/projects/hello-world/c-star) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
 
-- Debut: 1987
-- Typing: Static
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [C* Wiki](https://en.wikipedia.org/wiki/C*)
-- [C* User Guide](http://people.csail.mit.edu/bradley/cm5docs/CM-5CStarUsersGuide.pdf)
+```yml
+folder:
+  extension:
+  naming:
+
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

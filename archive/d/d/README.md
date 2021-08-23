@@ -1,28 +1,32 @@
 # Sample Programs in D
 
-Welcome to Sample Programs in D!
+Welcome to Sample Programs in D! To find documentation related to the D code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/d)
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in D][2]
-- [Baklava in D][6]
-  - Solution borrowed from @toturkmen via the [baklava repo][1]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in D](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+d) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Factorial in D](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+factorial+d) [[Requirements](https://sample-programs.therenegadecoder.com/projects/factorial)]
+- :white_check_mark: [Hello World in D](https://sample-programs.therenegadecoder.com/projects/hello-world/d) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
 
-- Debut: 2001
-- Developer: D Language Foundation
-- Typing: Strong, Static, Inferred
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [D Wiki][3]
-- [D Language Specification][4]
-- [D Compiler][5]
+```yml
+folder:
+  extension:
+  naming:
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://therenegadecoder.com/code/hello-world-in-d/
-[3]: https://en.wikipedia.org/wiki/D_(programming_language)
-[4]: https://dlang.org/spec/spec.html
-[5]: https://github.com/dlang/dmd
-[6]: https://github.com/TheRenegadeCoder/sample-programs/issues/426
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

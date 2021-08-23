@@ -1,47 +1,36 @@
 # Sample Programs in Bash
 
-Welcome to Sample Programs in Bash!
+Welcome to Sample Programs in Bash! To find documentation related to the Bash code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/bash)
 
-## Sample Programs
+## Sample Programs List
 
-- [Baklava in Bash][6] 
-  - Solution borrowed from @toturkman via the [baklava repo][1]
-- [Bubble Sort in Bash][9]
-- [Capitalize in Bash][10]
-- [Factorial in Bash][13]
-  - Solution borrowed from [Log2Base2][12]
-- [Fibonacci in Bash][7]
-- [File IO in Bash][8]
-- [Fizz Buzz in Bash][4]
-- [Game of Life in Bash][16]
-- [Hello World in Bash][2]
-- [Prime Number][15]
-- [Quick Sort in Bash][14]
-- [Reverse String in Bash][3]
-- [ROT13 in Bash][11]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Bubble Sort in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+bubble+sort+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort)]
+- :warning: [Capitalize in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :warning: [Even Odd in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd)]
+- :warning: [Factorial in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+factorial+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/factorial)]
+- :warning: [Fibonacci in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fibonacci+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :warning: [File Io in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+file+io+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/file-io)]
+- :warning: [Fizz Buzz in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :warning: [Game Of Life in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+game+of+life+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/game-of-life)]
+- :white_check_mark: [Hello World in Bash](https://sample-programs.therenegadecoder.com/projects/hello-world/bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Prime Number in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+prime+number+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number)]
+- :warning: [Quick Sort in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quick+sort+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quick-sort)]
+- :warning: [Quine in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quine+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quine)]
+- :warning: [Reverse String in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
+- :warning: [Selection Sort in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+selection+sort+bash) [[Requirements](https://sample-programs.therenegadecoder.com/projects/selection-sort)]
 
-- Debut: 1989
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Bash.
 
-- [Bash Wiki][5]
-- [Log2Base2][12]
+- Docker Image: bash
+- Docker Tag: 5
 
-[1]: https://github.com/toturkmen/baklava
-[2]: https://therenegadecoder.com/code/hello-world-in-bash/
-[3]: https://github.com/jrg94/sample-programs/issues/159
-[4]: https://github.com/jrg94/sample-programs/issues/384
-[5]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[6]: https://github.com/TheRenegadeCoder/sample-programs/issues/422
-[7]: https://github.com/TheRenegadeCoder/sample-programs/issues/623
-[8]: https://github.com/TheRenegadeCoder/sample-programs/issues/638
-[9]: https://github.com/TheRenegadeCoder/sample-programs/issues/1134
-[10]: https://github.com/TheRenegadeCoder/sample-programs/issues/1216
-[11]: https://github.com/TheRenegadeCoder/sample-programs/issues/1231
-[12]: https://www.log2base2.com/shell-script-examples/loop/shell-script-to-find-factorial-of-a-number.html
-[13]: https://github.com/TheRenegadeCoder/sample-programs/issues/1219
-[14]: https://github.com/TheRenegadeCoder/sample-programs/issues/1228
-[15]: https://github.com/TheRenegadeCoder/sample-programs/issues/1227
-[16]: https://github.com/TheRenegadeCoder/sample-programs/issues/1220
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

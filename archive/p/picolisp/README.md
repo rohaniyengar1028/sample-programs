@@ -1,20 +1,31 @@
-# Sample Programs in PicoLisp
+# Sample Programs in Picolisp
 
-Welcome to Sample Programs in PicoLisp!
+Welcome to Sample Programs in Picolisp! To find documentation related to the Picolisp code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/picolisp)
 
-## Sample Programs
+## Sample Programs List
 
-- [Hello World in PicoLisp (CLI)](https://therenegadecoder.com/code/hello-world-in-picolisp/)
-- [Reverse a String in PicoLisp (CLI)](https://github.com/jrg94/sample-programs/issues/154)
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :white_check_mark: [Hello World in Picolisp](https://sample-programs.therenegadecoder.com/projects/hello-world/picolisp) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Reverse String in Picolisp](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+picolisp) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
 
-- Debut: 1988
-- Developer: Alexander Burger
-- Typing: Dynamic
+## Testing
 
-## References
+This language currently does not feature testing. If you'd like to help in the efforts to test all of the code in this repo, consider creating a testinfo.yml file with the following information:
 
-- [PicoLisp Wiki](https://www.picolisp.com)
-- [PicoLisp Online Editor](https://www.jdoodle.com/execute-picolisp-online)
-- [PicoLisp GitHub](https://github.com/picolisp/picolisp)
+```yml
+folder:
+  extension:
+  naming:
+
+container:
+  image:
+  tag:
+  cmd:
+```
+
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
+
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.

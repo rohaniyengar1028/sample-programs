@@ -1,37 +1,35 @@
 # Sample Programs in Perl
 
-Welcome to Sample Programs in Perl!
+Welcome to Sample Programs in Perl! To find documentation related to the Perl code in this repo, look [here.](https://sample-programs.therenegadecoder.com/languages/perl)
 
-## Sample Programs
+## Sample Programs List
 
-- [Baklava in Perl][8]
-- [Capitalize in Perl](capitalize.pl)
-- [Even/Odd in Perl](even-odd.pl)
-- [Factorial in Perl](factorial.pl)
-- [File IO in Perl](https://github.com/TheRenegadeCoder/sample-programs/issues/1510)
-- [Fizz Buzz in Perl][3]
-- [Hello World in Perl][1]
-- [Quine in Perl][7]
-- [Reverse a String in Perl][2]
+Below, you'll find a list of code snippets in this collection. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation.
 
-## Fun Facts
+- :warning: [Baklava in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/baklava)]
+- :warning: [Bubble Sort in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+bubble+sort+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort)]
+- :warning: [Capitalize in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize)]
+- :warning: [Even Odd in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd)]
+- :warning: [Factorial in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+factorial+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/factorial)]
+- :warning: [Fibonacci in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fibonacci+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci)]
+- :warning: [File Io in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+file+io+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/file-io)]
+- :warning: [Fizz Buzz in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+fizz+buzz+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz)]
+- :white_check_mark: [Hello World in Perl](https://sample-programs.therenegadecoder.com/projects/hello-world/perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world)]
+- :warning: [Insertion Sort in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+insertion+sort+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/insertion-sort)]
+- :warning: [Prime Number in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+prime+number+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number)]
+- :warning: [Quine in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+quine+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/quine)]
+- :warning: [Reverse String in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+reverse+string+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string)]
+- :warning: [Rot 13 in Perl](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rot+13+perl) [[Requirements](https://sample-programs.therenegadecoder.com/projects/rot-13)]
 
-- Debut: 1987
-- Developer: Larry Wall
-- Typing: Dynamic
+## Testing
 
-## References
+The following list shares details about what we're using to test all Sample Programs in Perl.
 
-- [Perl Wiki][4]
-- [Perl Docs][5]
-- [Online Perl Interpreter][6]
+- Docker Image: perl
+- Docker Tag: 5.28-slim
 
-[1]: https://therenegadecoder.com/code/hello-world-in-perl
-[2]: https://github.com/TheRenegadeCoder/sample-programs/issues/358
-[3]: https://github.com/TheRenegadeCoder/sample-programs/issues/516
-[4]: https://en.wikipedia.org/wiki/Perl
-[5]: https://www.perl.org
-[6]: https://www.jdoodle.com/execute-perl-online
-[7]: https://github.com/TheRenegadeCoder/sample-programs/issues/1501
-[8]: https://github.com/TheRenegadeCoder/sample-programs/issues/1511
+See the [Glotter project](https://github.com/auroq/glotter) for more information on how to create a testinfo file.
 
+---
+
+This page was generated automatically by the Sample Programs READMEs tool. Find out how to support [this project](https://github.com/TheRenegadeCoder/sample-programs-readmes) on Github.
